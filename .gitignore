@@ -228,3 +228,10 @@ tmtags
 logs/
 .logs
 util/sql
+
+.history/
+README.md
+mvnw
+.mvn/
+.gitignore
+mvnw.cmd
